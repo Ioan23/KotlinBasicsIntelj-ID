@@ -1,4 +1,5 @@
 fun main(args: Array<String>) {
+
     println("Hello World!")
 
     // Try adding program arguments via Run/Debug configuration.
@@ -6,4 +7,8 @@ fun main(args: Array<String>) {
     println("Program arguments: ${args.joinToString()}")
 
     Proprieties()
+
+      val circle = Circle.randomCircle()
+      val rectangle = Rectangle.randomRectangle()
+
 }
