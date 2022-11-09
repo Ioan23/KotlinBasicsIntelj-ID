@@ -31,8 +31,9 @@ class A {
 
 
 
-    ListsVsMbList().changeMutableList()
-    Lateinit().initializeName()
+//    ListsVsMbList().changeMutableList()
+//    Lateinit().initializeName()
+    ListMap()
 
 }
 
