@@ -21,7 +21,8 @@ fun main(args: Array<String>) {
 //      val circle = Circle.randomCircle()
 //      val rectangle = Rectangle.randomRectangle()
 
-    ListsVsMbList().changeMutableList()
-    Lateinit().initializeName()
+//    ListsVsMbList().changeMutableList()
+//    Lateinit().initializeName()
 
+    nullCheck()
 }
